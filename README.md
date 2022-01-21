@@ -1,6 +1,3 @@
 # SimplilearnCapstoneProjectFoodBox
-Testing Jenkins deployment
-test 1
-2
-dguyui
-cs
+Testing the Jenkins deployment
+
