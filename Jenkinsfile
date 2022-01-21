@@ -25,11 +25,5 @@ pipeline
       }
     }
   }
-  post
-  {
-    always
-    {
-      emailext body: 'Summary', subject: 'Pipeline Status', to 'deebikaece@gmail.com'
-    }
-  }
+  
 }
