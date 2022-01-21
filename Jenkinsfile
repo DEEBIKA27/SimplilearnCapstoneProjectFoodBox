@@ -25,5 +25,11 @@ pipeline
       }
     }
   }
-  
+  post
+  {
+    always
+    {
+    emailext body: 'Summary: Pipeline Build Successful for FoodBox Application', subject: 'Pipeline status', to: 'deebikaece@gmail.com'
+    }
+  }
 }
