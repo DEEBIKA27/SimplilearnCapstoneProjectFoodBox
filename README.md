@@ -1,3 +1,3 @@
 # SimplilearnCapstoneProjectFoodBox
-Testing the Jenkins deployment
+Testing Jenkins deployment
 
